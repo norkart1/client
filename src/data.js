@@ -8,7 +8,7 @@ export const DUMMY_POSTS = [
         id: '1',
         thumbnail: Thumbnail1,
         category: 'History',
-        title: 'This is the title of the post',
+        title: 'This is the title of the post1',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, dolorem.',
         authorID: 3
     },
@@ -16,7 +16,7 @@ export const DUMMY_POSTS = [
         id: '2',
         thumbnail: Thumbnail2,
         category: 'Fiqh',
-        title: 'This is the title of the post',
+        title: 'This is the title of the post2',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, dolorem.',
         authorID: 1
     },
@@ -24,7 +24,7 @@ export const DUMMY_POSTS = [
         id: '3',
         thumbnail: Thumbnail3,
         category: 'Quran',
-        title: 'This is the title of the post',
+        title: 'This is the title of the post3',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, dolorem.',
         authorID: 13
     },
@@ -32,7 +32,7 @@ export const DUMMY_POSTS = [
         id: '4',
         thumbnail: Thumbnail4,
         category: 'Islam',
-        title: 'This is the title of the post',
+        title: 'This is the title of the post4',
         desc: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam, dolorem.',
         authorID: 11
     },
